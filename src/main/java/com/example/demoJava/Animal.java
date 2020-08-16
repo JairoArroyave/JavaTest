@@ -7,5 +7,6 @@ public class Animal {
     int eb = 12;
 
     int vv = 12;
+    int z = 12;
 
 }
