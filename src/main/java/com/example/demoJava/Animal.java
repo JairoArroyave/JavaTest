@@ -1,5 +1,6 @@
 public class Animal {
 
+    int b = 19;
     int a = 19;
     int b = 19;
     int s = 19;
