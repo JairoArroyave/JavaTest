@@ -1,7 +1,7 @@
 public class Animal {
 
 
-    int c = 19;
 
+    int a = 19;
 
 }
