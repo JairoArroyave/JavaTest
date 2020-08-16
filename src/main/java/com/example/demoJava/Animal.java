@@ -3,4 +3,6 @@ public class Animal {
     int d = 19;
     int e = 19;
 
+    int l = 19;
+
 }
