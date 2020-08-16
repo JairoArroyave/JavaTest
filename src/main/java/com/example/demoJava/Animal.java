@@ -6,4 +6,6 @@ public class Animal {
     int d = 19;
     int eb = 12;
 
+    int vv = 12;
+
 }
