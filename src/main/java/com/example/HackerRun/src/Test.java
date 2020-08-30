@@ -131,7 +131,9 @@ public class Test {
                      }
                     res =nextWord(res);
                     System.out.println("resultado "+contador);
-                }
+
+
+                    System.out.println("Esto es un tes");
 
 
 
